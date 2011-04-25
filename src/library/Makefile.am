@@ -1,0 +1,2 @@
+glibrary_PYTHON = eventmodel.py eventtreeview.py librarybrowser.py librarymodel.py librarytreeview.py librarywindow.py playermodel.py playertreeview.py __init__.py
+glibrarydir = $(pkgpythondir)/library
